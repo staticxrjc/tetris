@@ -1,0 +1,3 @@
+﻿  GameEngine.cpp
+C:\Users\Richard Cole\source\repos\Tetris - SFML\Tetris - SFML\GameEngine.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+  Tetris - SFML.vcxproj -> C:\Users\Richard Cole\source\repos\Tetris - SFML\Debug\Tetris - SFML.exe
